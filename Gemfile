@@ -1,7 +1,7 @@
 source 'http://rubygems.org/'
 
 gem 'eventmachine'
-gem 'rainbows'
+gem 'rainbows', '>= 4.4.2'
 gem 'sinatra'
 gem 'thin'
 
